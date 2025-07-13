@@ -30,6 +30,6 @@ HTML • CSS • JavaScript • Git • Sketchware • AIDE • Mobile IDEs
         <li>WhatsApp: <a href="https://wa.me/2348104395336">+2348104395336</a></li>
         <li>Facebook:<a href="https://www.facebook.com/share/19dXFRop2i/">Peters Revival</a></li>
         <li>Twitter:<a href="https://x.com/codesVictorious?s=09">Victorious Codes</a></li>
-        <li><a href="https://linkedin.com/in/VictoriousCodes" target="_blank">LinkedIn</a></li>
+        <li>LinkedIn<a href="[https:/](https://www.linkedin.com/in/victorious-codes-b80a2b374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">Victorious Codes</a></li>
 
 ![Me](victorious.jpg)
