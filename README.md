@@ -8,7 +8,7 @@
 
 ### 🚀 Projects
 
-- 🔥 [Unseen - Communication Web App](https://victoriouscodes.github.io/unseen-webapp/)
+- 🔥Unseen - Communication Web App
 - 🎵 VibeTune - Offline Music Player
 - 👨‍💻 Portfolio
 
@@ -22,7 +22,7 @@ HTML • CSS • JavaScript • Git • Sketchware • AIDE • Mobile IDEs
 
 ### 📫 Contact
 
-- GitHub: [github.com/victoriouscodes](https://github.com/victoriouscodes)
+- GitHub: [github.com/victoriouscodes](https://github.com/codeexe-revival)
 
 
 
